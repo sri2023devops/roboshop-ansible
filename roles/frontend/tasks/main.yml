@@ -1,0 +1,3 @@
+- name: Test
+  ansibile.builtin.debug:
+  msg: Hello from frontend
